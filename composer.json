@@ -1,0 +1,23 @@
+{
+    "name": "group-co/php-apollo",
+    "description": "apollo php cilent.",
+    "keywords": ["apollo", "Group-co", "php"],
+    "type": "project",
+    "license": "MIT",
+    "autoload": {
+        "psr-4": {
+            "Group\\": "src/"
+        }
+    },
+    "authors": [
+        {
+            "name": "Fu congcong",
+            "email": "coco.fu@clothesmake.com",
+            "homepage": "https://github.com/fucongcong",
+            "role": "Lead Developer"
+        }
+    ],
+    "require": {
+        "php": ">=5.3"
+    }
+}
